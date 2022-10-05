@@ -8,9 +8,9 @@
             "args": [
                 "-g",
                 "-o",
-                "main",
-                "main.c",
-                "other.c"
+                "Challenge1",
+                "Challenge1.c"
+                
             ],
             "group": "build"
         },
